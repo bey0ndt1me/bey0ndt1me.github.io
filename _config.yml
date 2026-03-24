@@ -29,13 +29,13 @@ author:
   bio              : "Student at School of Information and Science Technology, ShanghaiTech University"
   location         : "Shanghai, China"
   employer         : # URL
-  uri              : "https://bey0ndt1me.github.io" # URL
+  uri              : # URL
   email            : "zhangrl2023@shanghaitech.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
