@@ -18,28 +18,28 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 ## Publications
 
-**Visuo-tactile Computing**  (Current Work)
+### **Visuo-tactile Computing**  (Current Work)
 
 Zhengying Zhu, **Ruilin Zhang**, Chenxi Xiao*
 
 *To be submitted to **Nature Machine Intelligence***  
 
 
-**Heterogeneous Dexterous Hand Manipulation**  (Current Work)
+### **Heterogeneous Dexterous Hand Manipulation**  (Current Work)
 
 Runze Hu, **Ruilin Zhang**, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
 
 *To be submitted to **T-RO***  
 
 
-**Multimodal Tactile Fingertip**  (Current Work)
+### **Multimodal Tactile Fingertip**  (Current Work)
 
 **Ruilin Zhang**, Xiaoying Zhou, Chenxi Xiao*
 
 *To be submitted to **ICRA 2027***  
 
 
-**Biomimetric Dexterous Hand Enables Self-sensing Driving**  (Current Work)
+### **Biomimetric Dexterous Hand Enables Self-sensing Driving**  (Current Work)
 
 **Ruilin Zhang**, Chenxi Xiao*
 
