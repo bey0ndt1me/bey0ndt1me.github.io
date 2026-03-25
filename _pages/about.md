@@ -22,7 +22,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 25%; margin-right: 20px;">
     <!-- 记得把 visuo_tactile.jpg 换成你真实上传到 images 文件夹的图片名 -->
-    <img src="/images/visuo_tactile.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/paper1_teaser.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
@@ -41,7 +41,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 <!-- 第二篇：Heterogeneous Dexterous Hand Manipulation -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 25%; margin-right: 20px;">
-    <img src="/images/dexterous_hand.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/paper2_teaser.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
