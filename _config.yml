@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "CHN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Student"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Ruilin Zhang"
 description              : &description "Undergraduate at ShanghaiTech University"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://bey0ndt1me.github.io" # The base hostname & protocol for your site e.g. "https://bey0ndt1me.github.io",
