@@ -97,7 +97,20 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 * **Second Place, 2025 TI Cup National Undergrade Eletrical Design Contest**
 * **Outstanding Students of SIST, 2024–2025 Academic Year**
 
-"avatar.jpg"
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; margin-bottom: 30px;">
+  
+  <!-- 左侧的图片 (占宽48%) -->
+  <div style="flex: 0 0 48%;">
+    <img src="/images/award1.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+
+  <!-- 右侧的图片 (占宽48%) -->
+  <div style="flex: 0 0 48%;">
+    <img src="/images/award2.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
+
 
 ## Projects
 * **[Project Name 1](链接)**: One-sentence description of the project.
