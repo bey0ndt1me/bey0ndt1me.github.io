@@ -19,20 +19,24 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 ## Publications
 
 **Visuo-tactile Computing**  (Current Work)
-Author 1, **Your Name**, Author 3  
+
+Zhengying Zhu, **Ruilin Zhang**, Chenxi Xiao*
 *To be submitted to **Nature Machine Intelligence***  
 [[Paper]](链接) [[Project]](链接) [[Code]](链接)
 
 **Heterogeneous Dexterous Hand Manipulation**  (Current Work)
-Author 1, **Your Name**, Author 3  
+
+Runze Hu, **Ruilin Zhang**, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
 *To be submitted to **T-RO***  
 
 **Multimodal Tactile Fingertip**  (Current Work)
-**Your Name**, Author 2, Author 3  
+
+**Ruilin Zhang**, Xiaoying Zhou, Chenxi Xiao*
 *To be submitted to **ICRA 2027***  
 
 **Biomimetric Dexterous Hand Enables Self-sensing Driving**  (Current Work)
-**Your Name**, Author 2, Author 3  
+
+**Ruilin Zhang**, Chenxi Xiao*
 *To be submitted to **Science Advances***
 
 
@@ -40,6 +44,7 @@ Author 1, **Your Name**, Author 3
 * **Second Place, 2025 TI Cup National Undergrade Eletrical Design Contest**
 * **Outstanding Students of SIST, 2024–2025 Academic Year**
 
+"avatar.jpg"
 
 ## Projects
 * **[Project Name 1](链接)**: One-sentence description of the project.
