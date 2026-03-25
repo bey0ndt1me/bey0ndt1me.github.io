@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruilin Zhang"
+title: "Ruilin Zhang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,22 +21,28 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 **Visuo-tactile Computing**  (Current Work)
 
 Zhengying Zhu, **Ruilin Zhang**, Chenxi Xiao*
+
 *To be submitted to **Nature Machine Intelligence***  
-[[Paper]](链接) [[Project]](链接) [[Code]](链接)
+
 
 **Heterogeneous Dexterous Hand Manipulation**  (Current Work)
 
 Runze Hu, **Ruilin Zhang**, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
+
 *To be submitted to **T-RO***  
+
 
 **Multimodal Tactile Fingertip**  (Current Work)
 
 **Ruilin Zhang**, Xiaoying Zhou, Chenxi Xiao*
+
 *To be submitted to **ICRA 2027***  
+
 
 **Biomimetric Dexterous Hand Enables Self-sensing Driving**  (Current Work)
 
 **Ruilin Zhang**, Chenxi Xiao*
+
 *To be submitted to **Science Advances***
 
 
