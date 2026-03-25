@@ -18,48 +18,87 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 ## Publications
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <!-- 左侧的图片区域，占30%宽度 -->
-  <div style="flex: 0 0 30%; margin-right: 20px;">
-    <img src="/images/Paper1_Teasor.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+<!-- 第一篇：Visuo-tactile Computing -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 25%; margin-right: 20px;">
+    <!-- 记得把 visuo_tactile.jpg 换成你真实上传到 images 文件夹的图片名 -->
+    <img src="/images/visuo_tactile.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧的文字区域 -->
-  <div>
-    <b>Visuo-tactile Computing</b> (Current Work)<br>
-    Zhengying Zhu, <b>Ruilin Zhang</b>b>, Chenxi Xiao*<br>
-    <i>To be submitted to <b>Nature Machine Intelligence</b></i><br>
+  <div style="flex: 1;">
+    <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
+      Visuo-tactile Computing <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+    </div>
+    <div style="margin-bottom: 5px;">
+      Zhengying Zhu, <b>Ruilin Zhang</b>, Chenxi Xiao*
+    </div>
+    <div style="margin-bottom: 5px;">
+      <i>To be submitted to <b>Nature Machine Intelligence</b></i>
+    </div>
+    <!-- 等以后文章发表了，可以把下面这行代码取消注释（删掉 <!-- 和 -->）填入链接 -->
+    <!-- <div><a href="链接">[Paper]</a> <a href="链接">[Project Page]</a></div> -->
   </div>
 </div>
 
+<!-- 第二篇：Heterogeneous Dexterous Hand Manipulation -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 25%; margin-right: 20px;">
+    <img src="/images/dexterous_hand.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1;">
+    <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
+      Heterogeneous Dexterous Hand Manipulation <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+    </div>
+    <div style="margin-bottom: 5px;">
+      Runze Hu, <b>Ruilin Zhang</b>, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
+    </div>
+    <div style="margin-bottom: 5px;">
+      <i>To be submitted to <b>T-RO</b></i>
+    </div>
+  </div>
+</div>
 
+<!-- 第三篇：Multimodal Tactile Fingertip -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 25%; margin-right: 20px;">
+    <img src="/images/tactile_fingertip.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1;">
+    <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
+      Multimodal Tactile Fingertip <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+    </div>
+    <div style="margin-bottom: 5px;">
+      <b>Ruilin Zhang</b>, Xiaoying Zhou, Chenxi Xiao*
+    </div>
+    <div style="margin-bottom: 5px;">
+      <i>To be submitted to <b>ICRA 2027</b></i>
+    </div>
+  </div>
+</div>
 
-### **Heterogeneous Dexterous Hand Manipulation**  (Current Work)
-
-Runze Hu, **Ruilin Zhang**, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
-
-*To be submitted to **T-RO***  
-<img src="/images/Paper2_Teasor.jpg" width="400">
-
-
-### **Multimodal Tactile Fingertip**  (Current Work)
-
-**Ruilin Zhang**, Xiaoying Zhou, Chenxi Xiao*
-
-*To be submitted to **ICRA 2027***  
-
-
-### **Biomimetric Dexterous Hand Enables Self-sensing Driving**  (Current Work)
-
-**Ruilin Zhang**, Chenxi Xiao*
-
-*To be submitted to **Science Advances***
+<!-- 第四篇：Biomimetric Dexterous Hand Enables Self-sensing Driving -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 25%; margin-right: 20px;">
+    <img src="/images/biomimetic_hand.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1;">
+    <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
+      Biomimetric Dexterous Hand Enables Self-sensing Driving <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+    </div>
+    <div style="margin-bottom: 5px;">
+      <b>Ruilin Zhang</b>, Chenxi Xiao*
+    </div>
+    <div style="margin-bottom: 5px;">
+      <i>To be submitted to <b>Science Advances</b></i>
+    </div>
+  </div>
+</div>
 
 
 ## Awards
 * **Second Place, 2025 TI Cup National Undergrade Eletrical Design Contest**
 * **Outstanding Students of SIST, 2024–2025 Academic Year**
-<img src="/images/Award1.jpg" width="400">
 
+"avatar.jpg"
 
 ## Projects
 * **[Project Name 1](链接)**: One-sentence description of the project.
