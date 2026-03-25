@@ -34,7 +34,6 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
     <div style="margin-bottom: 5px;">
       <i>To be submitted to <b>Nature Machine Intelligence</b></i>
     </div>
-    <!-- 等以后文章发表了，可以把下面这行代码取消注释（删掉 <!-- 和 -->）填入链接 -->
     <!-- <div><a href="链接">[Paper]</a> <a href="链接">[Project Page]</a></div> -->
   </div>
 </div>
