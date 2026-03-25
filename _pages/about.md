@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Ruilin Zhang"
 author_profile: true
 redirect_from: 
   - /about/
