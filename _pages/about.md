@@ -18,11 +18,19 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 ## Publications
 
-### **Visuo-tactile Computing**  (Current Work)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- 左侧的图片区域，占30%宽度 -->
+  <div style="flex: 0 0 30%; margin-right: 20px;">
+    <img src="/images/Paper1_Teasor.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+  </div>
+  <!-- 右侧的文字区域 -->
+  <div>
+    <b>Visuo-tactile Computing</b> (Current Work)<br>
+    Zhengying Zhu, <b>Ruilin Zhang</b>b>, Chenxi Xiao*<br>
+    <i>To be submitted to <b>Nature Machine Intelligence</b></i><br>
+  </div>
+</div>
 
-Zhengying Zhu, **Ruilin Zhang**, Chenxi Xiao*
-
-*To be submitted to **Nature Machine Intelligence***  
 
 
 ### **Heterogeneous Dexterous Hand Manipulation**  (Current Work)
@@ -30,6 +38,7 @@ Zhengying Zhu, **Ruilin Zhang**, Chenxi Xiao*
 Runze Hu, **Ruilin Zhang**, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
 
 *To be submitted to **T-RO***  
+<img src="/images/Paper2_Teasor.jpg" width="400">
 
 
 ### **Multimodal Tactile Fingertip**  (Current Work)
@@ -49,8 +58,8 @@ Runze Hu, **Ruilin Zhang**, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
 ## Awards
 * **Second Place, 2025 TI Cup National Undergrade Eletrical Design Contest**
 * **Outstanding Students of SIST, 2024–2025 Academic Year**
+<img src="/images/Award1.jpg" width="400">
 
-"avatar.jpg"
 
 ## Projects
 * **[Project Name 1](链接)**: One-sentence description of the project.
