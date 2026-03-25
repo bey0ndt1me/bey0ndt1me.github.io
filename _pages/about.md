@@ -33,7 +33,12 @@ Author 1, **Your Name**, Author 3
 
 **Biomimetric Dexterous Hand Enables Self-sensing Driving**  (Current Work)
 **Your Name**, Author 2, Author 3  
-*To be submitted to **Science Advances***  
+*To be submitted to **Science Advances***
+
+
+## Awards
+* **Second Place, 2025 TI Cup National Undergrade Eletrical Design Contest**
+* **Outstanding Students of SIST, 2024–2025 Academic Year**
 
 
 ## Projects
