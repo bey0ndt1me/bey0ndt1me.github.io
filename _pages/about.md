@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student researcher at Robotics Interface and Manipulation Lab, School of Information and Science Technology (SIST), ShanghaiTech University, working with Prof. [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=zh-CN&oi=ao).
+I am an undergraduate student researcher at Robotics Interface and Manipulation Lab, School of Information and Science Technology (SIST), ShanghaiTech University, supervised by Prof. [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=zh-CN&oi=ao). My research mainly foucuses on visuo-tactile sensors and dexterous hand manipulation.
 
 [**[Curriculum Vitae]**](/files/your_cv.pdf)
 
