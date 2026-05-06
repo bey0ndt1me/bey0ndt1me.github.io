@@ -18,15 +18,14 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 ## Publications
 
-<!-- 第一篇：Visuo-tactile Computing -->
+<!-- Physical Near-sensor Computing for Instantaneous Embodied Visuo-tactile Perception -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 25%; margin-right: 20px;">
-    <!-- 记得把 visuo_tactile.jpg 换成你真实上传到 images 文件夹的图片名 -->
     <img src="/images/paper1_teaser.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
-      Visuo-tactile Computing <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+      Physical Near-sensor Computing for Instantaneous Embodied Visuo-tactile Perception <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
     </div>
     <div style="margin-bottom: 5px;">
       Zhengying Zhu, <b>Ruilin Zhang</b>, Chenxi Xiao*
@@ -38,14 +37,14 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
   </div>
 </div>
 
-<!-- 第二篇：Heterogeneous Dexterous Hand Manipulation -->
+<!-- TriCoSphere: A Lightweight, High-Speed, and Large-Workspace Coaxial Spherical Parallel Manipulator for Learning-Based Dexterous Grasping -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 25%; margin-right: 20px;">
     <img src="/images/paper2_teaser.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
-      Heterogeneous Dexterous Hand Manipulation <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+      TriCoSphere: A Lightweight, High-Speed, and Large-Workspace Coaxial Spherical Parallel Manipulator for Learning-Based Dexterous Grasping <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
     </div>
     <div style="margin-bottom: 5px;">
       Runze Hu, <b>Ruilin Zhang</b>, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
@@ -56,14 +55,14 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
   </div>
 </div>
 
-<!-- 第三篇：Multimodal Tactile Fingertip -->
+<!-- ProxiTac: A Plug-and-Play Wearable Proximity-Tactile Sensor for Cross-Embodiment Hand Data Collection -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 25%; margin-right: 20px;">
     <img src="/images/tactile_fingertip.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
-      Multimodal Tactile Fingertip <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+      ProxiTac: A Plug-and-Play Wearable Proximity-Tactile Sensor for Cross-Embodiment Hand Data Collection <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
     </div>
     <div style="margin-bottom: 5px;">
       <b>Ruilin Zhang</b>, Xiaoying Zhou, Chenxi Xiao*
@@ -74,23 +73,6 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
   </div>
 </div>
 
-<!-- 第四篇：Biomimetric Dexterous Hand Enables Self-sensing Driving -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 25%; margin-right: 20px;">
-    <img src="/images/biomimetic_hand.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </div>
-  <div style="flex: 1;">
-    <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
-      Biomimetric Dexterous Hand Enables Self-sensing Driving <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
-    </div>
-    <div style="margin-bottom: 5px;">
-      <b>Ruilin Zhang</b>, Chenxi Xiao*
-    </div>
-    <div style="margin-bottom: 5px;">
-      <i>To be submitted to <b>Science Advances</b></i>
-    </div>
-  </div>
-</div>
 
 
 ## Awards
@@ -113,11 +95,9 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 
 ## Projects
-* **[Project Name 1](链接)**: One-sentence description of the project.
-* **[Project Name 2](链接)**: General object grasping for any scenario.
-
+* **[Image Signal Processing]([链接](https://github.com/bey0ndt1me/ISP))**: Reconstructed RGB image from RAW camera data, and adjusted image parameters to adapt human-eye vision.
+* **[LCRmeter]([链接](https://github.com/bey0ndt1me/LCR-meter))**: Measured resistance, capacitance, and inductance by analyzing the impedance response of components under an AC excitation
+signal.
 ## Teaching
 * **Teaching Assistant**, EE115B, Digital Circuits, ShanghaiTech University, 2026 Spring
 
-## Public Services
-* **Volunteer for**: Philadelphia Orchestra at ShanghaiTech University, 2025-04
