@@ -96,8 +96,9 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 ## Projects
 * **[Image Signal Processing]([链接](https://github.com/bey0ndt1me/ISP))**: Reconstructed RGB image from RAW camera data, and adjusted image parameters to adapt human-eye vision.
-* **[LCRmeter]([链接](https://github.com/bey0ndt1me/LCR-meter))**: Measured resistance, capacitance, and inductance by analyzing the impedance response of components under an AC excitation
+* **[LCR meter]([链接](https://github.com/bey0ndt1me/LCR-meter))**: Measured resistance, capacitance, and inductance by analyzing the impedance response of components under an AC excitation
 signal.
+
 ## Teaching
 * **Teaching Assistant**, EE115B, Digital Circuits, ShanghaiTech University, 2026 Spring
 
