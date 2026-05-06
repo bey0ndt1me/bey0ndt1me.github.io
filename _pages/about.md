@@ -87,7 +87,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
   </div>
 
   <!-- 右侧的图片 (占宽48%) -->
-  <div style="flex: 0 0 31%;">
+  <div style="flex: 0 0 32%;">
     <img src="/images/award2.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
 
