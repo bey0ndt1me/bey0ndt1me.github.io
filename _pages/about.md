@@ -31,7 +31,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
       Zhengying Zhu, <b>Ruilin Zhang</b>, Chenxi Xiao*
     </div>
     <div style="margin-bottom: 5px;">
-      <i>To be submitted to <b>Nature Machine Intelligence</b> before 2026.07</i>
+      <i>To be submitted to <b>Nature Sensors</b> before 2026.08</i>
     </div>
     <!-- <div><a href="链接">[Paper]</a> <a href="链接">[Project Page]</a></div> -->
   </div>
@@ -50,7 +50,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
       Runze Hu, <b>Ruilin Zhang</b>, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
     </div>
     <div style="margin-bottom: 5px;">
-      <i>To be submitted to <b>T-RO</b> before 2026.06</i>
+      <i>To be submitted to <b>T-RO</b> before 2026.08</i>
     </div>
   </div>
 </div>
@@ -100,5 +100,5 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 signal.
 
 ## Teaching
-* **Teaching Assistant**, EE115B, Digital Circuits, ShanghaiTech University, 2026 Spring
+* **Execellent Teaching Assistant**, EE115B, Digital Circuits, ShanghaiTech University, 2026 Spring
 
