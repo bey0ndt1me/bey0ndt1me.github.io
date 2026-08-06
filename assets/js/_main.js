@@ -102,6 +102,35 @@ $(document).ready(function () {
   // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
 
+  // Keep the email address out of the static HTML and reveal it only after a
+  // deliberate click. This deters basic address harvesters; it is not intended
+  // to stop a crawler that executes JavaScript and interacts with the page.
+  $(".js-email-reveal").on("click", function (event) {
+    if (this.dataset.emailRevealed === "true") {
+      return;
+    }
+
+    event.preventDefault();
+    const encodedAddress = this.dataset.emailCodes || "";
+    const codePoints = encodedAddress.split(",").map(Number);
+    const isValid = codePoints.length > 0 && codePoints.every((code) => Number.isInteger(code) && code > 0 && code <= 127);
+
+    if (!isValid) {
+      return;
+    }
+
+    const address = String.fromCharCode(...codePoints);
+    const label = this.querySelector(".js-email-label");
+    this.href = "mailto:" + address;
+    this.dataset.emailRevealed = "true";
+    this.removeAttribute("data-email-codes");
+    this.setAttribute("aria-label", "Send email to " + address);
+    this.title = "Click again to open your email app";
+    if (label) {
+      label.textContent = address;
+    }
+  });
+
   // Enable the sticky footer
   var bumpIt = function () {
     $("body").css("padding-bottom", "0");
