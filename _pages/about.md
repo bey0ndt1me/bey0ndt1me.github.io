@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student researcher at Robotics Interface and Manipulation Lab, School of Information and Science Technology (SIST), ShanghaiTech University, supervised by Prof. [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=zh-CN&oi=ao). My research mainly foucuses on edge computing for visuotactile sensors and multimodal tactile sensing in improving dexterous manipulation.
+I am an undergraduate student researcher at Robotics Interface and Manipulation Lab, School of Information and Science Technology (SIST), ShanghaiTech University, supervised by Prof. [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=zh-CN&oi=ao). My research mainly focuses on edge computing for visuotactile sensors and multimodal tactile sensing in improving dexterous manipulation.
 
 [**[Curriculum Vitae]**](/files/CV_Ruilin_Zhang.pdf)
 
@@ -95,10 +95,10 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 
 ## Projects
-* **[Image Signal Processing]([链接](https://github.com/bey0ndt1me/ISP))**: Reconstructed RGB image from RAW camera data, and adjusted image parameters to adapt human-eye vision.
-* **[LCR meter]([链接](https://github.com/bey0ndt1me/LCR-meter))**: Measured resistance, capacitance, and inductance by analyzing the impedance response of components under an AC excitation
+* **[Image Signal Processing](https://github.com/bey0ndt1me/ISP)**: Reconstructed RGB image from RAW camera data, and adjusted image parameters to adapt human-eye vision.
+* **[LCR meter](https://github.com/bey0ndt1me/LCR-meter)**: Measured resistance, capacitance, and inductance by analyzing the impedance response of components under an AC excitation
 signal.
 
 ## Teaching
-* **Execellent Teaching Assistant**, EE115B, Digital Circuits, ShanghaiTech University, 2026 Spring
+* **Excellent Teaching Assistant**, EE115B, Digital Circuits, ShanghaiTech University, 2026 Spring
 
