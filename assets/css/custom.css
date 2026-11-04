@@ -1,0 +1,99 @@
+/* ---------------------------------------------------------------------------
+   Local overrides for the Minimal Light theme.
+
+   1. Every publication gets the same fixed teaser box, so all rows line up no
+      matter what aspect ratio the figure has (the theme hard-codes 270x123
+      with object-fit: cover, which cropped the figures).
+   2. Award photos sit side by side instead of stacking full width.
+--------------------------------------------------------------------------- */
+
+.pub-row {
+  align-items: flex-start;
+}
+
+.pub-row > .col-sm-9 {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.teaser-col {
+  position: relative;
+  flex: 0 0 220px;
+  width: 220px;
+  margin-right: 22px;
+}
+
+/* Higher specificity than the theme's `.publications ol.bibliography li .teaser`
+   so the fixed box actually wins. */
+.publications ol.bibliography li .teaser,
+.publications ol.bibliography li .teaser-placeholder {
+  display: block;
+  width: 220px;
+  height: 165px;
+  margin: 0;
+  box-sizing: border-box;
+  object-fit: contain;
+  object-position: center;
+  background: #fbfbfb;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+  box-shadow: none;
+}
+
+.publications ol.bibliography li .teaser-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #9a9a9a;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  border-style: dashed;
+}
+
+.badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 2;
+}
+
+/* Awards: two photos side by side, the wider one first. */
+.award-row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin: 12px 0 0;
+}
+
+.award-row img {
+  display: block;
+  height: auto;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+}
+
+.award-row img:first-child { width: 62%; }
+.award-row img:last-child { width: 34%; }
+
+@media (prefers-color-scheme: dark) {
+  .publications ol.bibliography li .teaser,
+  .publications ol.bibliography li .teaser-placeholder {
+    background: #1e1f26;
+    border-color: #33353f;
+  }
+  .publications ol.bibliography li .teaser-placeholder { color: #7d7f88; }
+  .award-row img { border-color: #33353f; }
+}
+
+@media (max-width: 640px) {
+  .pub-row { flex-direction: column; }
+  .teaser-col { width: 100%; flex: none; margin: 0 0 10px; }
+  .publications ol.bibliography li .teaser,
+  .publications ol.bibliography li .teaser-placeholder { width: 100%; height: 190px; }
+  .award-row { flex-direction: column; }
+  .award-row img:first-child,
+  .award-row img:last-child { width: 100%; }
+}

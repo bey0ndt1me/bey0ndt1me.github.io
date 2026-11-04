@@ -1,0 +1,19 @@
+main:
+
+  - title: "Near-sensor Computing for Rapid Visuotactile Perception"
+    authors: Zhengying Zhu, <strong>Ruilin Zhang</strong>, Runze Hu, Chenxi Xiao*
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2608.05725, 2026.
+    pdf: https://arxiv.org/pdf/2608.05725
+    others: '<a href="https://arxiv.org/abs/2608.05725" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>'
+    image: /images/Fig1_Overview.jpg
+
+  - title: "TriCoSphere: A Lightweight, High-Speed, and Large-Workspace Coaxial Spherical Parallel Manipulator for Learning-Based Dexterous Grasping"
+    authors: Runze Hu, <strong>Ruilin Zhang</strong>, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
+    conference_short: T-RO
+    conference: Submitted to <strong>T-RO</strong>.
+    image: /images/paper2_teaser.jpg
+
+  - title: "ProxiTac: A Plug-and-Play Wearable Proximity-Tactile Sensor for Cross-Embodiment Hand Data Collection"
+    authors: <strong>Ruilin Zhang</strong>, Xiaoying Zhou, Chenxi Xiao*
+    notes: Current Work
