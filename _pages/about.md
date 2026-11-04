@@ -20,7 +20,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 <!-- Near-sensor Computing for Rapid Visuotactile Perception -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 40%; margin-right: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/Fig1_Overview.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
@@ -39,7 +39,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 <!-- TriCoSphere: A Lightweight, High-Speed, and Large-Workspace Coaxial Spherical Parallel Manipulator for Learning-Based Dexterous Grasping -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 25%; margin-right: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/paper2_teaser.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
@@ -57,8 +57,10 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 <!-- ProxiTac: A Plug-and-Play Wearable Proximity-Tactile Sensor for Cross-Embodiment Hand Data Collection -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 25%; margin-right: 20px;">
-    <img src="/images/tactile_fingertip.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <div style="width: 100%; height: 225px; border-radius: 8px; border: 1px dashed #d0d0d0; background: #fafafa; display: flex; align-items: center; justify-content: center; color: #9a9a9a; font-size: 0.85em;">
+      Figure coming soon
+    </div>
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
