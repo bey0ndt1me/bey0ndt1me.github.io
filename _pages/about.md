@@ -25,15 +25,15 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
-      Near-sensor Computing for Rapid Visuotactile Perception <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+      Near-sensor Computing for Rapid Visuotactile Perception
     </div>
     <div style="margin-bottom: 5px;">
-      Zhengying Zhu, <b>Ruilin Zhang</b>, Chenxi Xiao*
+      Zhengying Zhu, <b>Ruilin Zhang</b>, Runze Hu, Chenxi Xiao*
     </div>
     <div style="margin-bottom: 5px;">
-      <i>To be submitted to <b>Nature Sensors</b> before 2026.08</i>
+      <i>arXiv preprint arXiv:2608.05725, 2026</i>
     </div>
-    <!-- <div><a href="链接">[Paper]</a> <a href="链接">[Project Page]</a></div> -->
+    <div><a href="https://arxiv.org/abs/2608.05725">[arXiv]</a></div>
   </div>
 </div>
 
@@ -50,7 +50,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
       Runze Hu, <b>Ruilin Zhang</b>, Kefei Wu, Xiaoying Zhou, Jinyu Li, Chenxi Xiao*
     </div>
     <div style="margin-bottom: 5px;">
-      <i>To be submitted to <b>T-RO</b> before 2026.08</i>
+      <i>Submitted to <b>T-RO</b></i>
     </div>
   </div>
 </div>
@@ -66,9 +66,6 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
     </div>
     <div style="margin-bottom: 5px;">
       <b>Ruilin Zhang</b>, Xiaoying Zhou, Chenxi Xiao*
-    </div>
-    <div style="margin-bottom: 5px;">
-      <i>To be submitted to <b>ICRA 2027</b></i>
     </div>
   </div>
 </div>
