@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student researcher at Robotics Interface and Manipulation Lab, School of Information and Science Technology (SIST), ShanghaiTech University, supervised by Prof. [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=zh-CN&oi=ao). My research mainly focuses on edge computing for visuotactile sensors and multimodal tactile sensing in improving dexterous manipulation.
+I am an undergraduate student researcher at Robotics Interface and Manipulation Lab, School of Information and Science Technology (SIST), ShanghaiTech University, supervised by Prof. [Chenxi Xiao](https://scholar.google.com/citations?user=Qhiy3doAAAAJ&hl=zh-CN&oi=ao). My research mainly focuses on edge computing for visuotactile sensors and multimodal tactile sensing in improving dexterous manipulation. I will join the School of Information Science and Technology (SIST) at ShanghaiTech University as an M.S. student in 2027, and expect to graduate in 2030.
 
 [**[Curriculum Vitae]**](/files/CV_Ruilin_Zhang.pdf)
 
@@ -18,14 +18,14 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 
 ## Publications
 
-<!-- Physical Near-sensor Computing for Instantaneous Embodied Visuo-tactile Perception -->
+<!-- Near-sensor Computing for Rapid Visuotactile Perception -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <div style="flex: 0 0 25%; margin-right: 20px;">
-    <img src="/images/paper1_teaser.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <div style="flex: 0 0 40%; margin-right: 20px;">
+    <img src="/images/Fig1_Overview.jpg" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
     <div style="font-size: 1.15em; font-weight: bold; margin-bottom: 5px;">
-      Physical Near-sensor Computing for Instantaneous Embodied Visuo-tactile Perception <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
+      Near-sensor Computing for Rapid Visuotactile Perception <span style="font-size: 0.85em; font-weight: normal; color: #666;">(Current Work)</span>
     </div>
     <div style="margin-bottom: 5px;">
       Zhengying Zhu, <b>Ruilin Zhang</b>, Chenxi Xiao*
