@@ -14,6 +14,64 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
+    {%- comment -%}
+      Link previews and structured data. Only public metadata is emitted here;
+      the address itself lives in _config.yml as character codes.
+    {%- endcomment -%}
+    <meta property="og:type" content="profile">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.canonical }}">
+    <meta property="og:image" content="{{ site.url }}/images/og-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="profile:first_name" content="Ruilin">
+    <meta property="profile:last_name" content="Zhang">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.url }}/images/og-card.png">
+    {% if site.google_site_verification != "" %}
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+    {% endif %}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "mainEntity": {
+        "@type": "Person",
+        "@id": "{{ site.url }}/#person",
+        "name": "Ruilin Zhang",
+        "url": "{{ site.url }}/",
+        "image": "{{ site.url }}{{ site.avatar }}",
+        "jobTitle": "{{ site.position }}",
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "{{ site.affiliation }}",
+          "url": "{{ site.affiliation_link }}"
+        },
+        "alumniOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "{{ site.affiliation }}",
+          "url": "{{ site.affiliation_link }}"
+        },
+        "knowsAbout": [
+          "Visuotactile sensing",
+          "Tactile sensor design",
+          "Near-sensor computing",
+          "Dexterous manipulation",
+          "Robot hardware co-design"
+        ],
+        "sameAs": [
+          "{{ site.google_scholar }}",
+          "{{ site.github_link }}"
+        ]
+      }
+    }
+    </script>
+
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>

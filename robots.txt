@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bey0ndt1me.github.io/sitemap.xml

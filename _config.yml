@@ -12,6 +12,16 @@ email_codes: [122, 104, 97, 110, 103, 114, 108, 50, 48, 50, 51, 64, 115, 104, 97
 keywords: Ruilin Zhang, ShanghaiTech University, visuotactile sensing, tactile sensor, dexterous manipulation, robot hardware co-design
 description: Ruilin Zhang is an undergraduate researcher at ShanghaiTech University, working on visuotactile sensors, multimodal tactile sensing, and dexterous manipulation.
 canonical: https://bey0ndt1me.github.io/
+url: "https://bey0ndt1me.github.io"
+lang: en
+
+# Paste the token from Google Search Console (HTML tag method) to prove ownership.
+# Leave empty to omit the meta tag.
+google_site_verification: ""
+
+# jekyll-sitemap generates /sitemap.xml; the plugin must be listed to run.
+plugins:
+  - jekyll-sitemap
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=XKqg9-UAAAAJ&hl=zh-CN
