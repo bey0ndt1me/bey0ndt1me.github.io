@@ -14,7 +14,7 @@ main:
 
   - title: "PCTac: Mechanochromic Photonic-Crystal Tactile Sensor for Dexterous Manipulation"
     authors: <strong>Ruilin Zhang</strong><sup>*</sup>, Xuanshuo Liu<sup>*</sup>, Junzhe Dai, Kefei Wu, Xuhao Qin, Ziyuan Jiao, Wanlin Li, Yurui Qu, Chenxi Xiao
-    conference: arXiv preprint arXiv:2611.12383, 2026.
+    conference: "arXiv:2611.12383, 2026."
     pdf: https://arxiv.org/pdf/2611.12383
     others: '<a href="https://arxiv.org/abs/2611.12383" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>'
     image: /images/PCTac_fig1.jpg
