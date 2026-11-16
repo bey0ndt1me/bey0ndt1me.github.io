@@ -9,7 +9,7 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 ## Research Interests
 
 - **Tactile sensing hardware:** on-sensor computing, near-sensor architectures for visuotactile perception
-- **Multimodal perception:** proximity–tactile fusion, wearable sensing for cross-embodiment hand data collection
+- **Multimodal perception:** wearable sensing for cross-embodiment hand data collection
 - **Dexterous manipulation:** learning-based grasping, robot hardware co-design
 
 ## News
@@ -19,11 +19,6 @@ I am an undergraduate student researcher at Robotics Interface and Manipulation 
 - **[Sep. 2023]** Joined ShanghaiTech University as a B.S. student.
 
 {% include_relative _includes/publications.md %}
-
-## Projects
-
-- **[Image Signal Processing](https://github.com/bey0ndt1me/ISP)**: Reconstructed RGB image from RAW camera data, and adjusted image parameters to adapt human-eye vision.
-- **[LCR meter](https://github.com/bey0ndt1me/LCR-meter)**: Measured resistance, capacitance, and inductance by analyzing the impedance response of components under an AC excitation signal.
 
 ## Awards
 

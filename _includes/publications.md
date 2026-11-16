@@ -13,9 +13,6 @@
     {% else %}
     <div class="teaser teaser-placeholder">Figure<br>coming soon</div>
     {% endif %}
-    {% if link.conference_short %}
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
   </div>
   <div class="col-sm-9">
       <div class="title"><a href="{% if link.pdf %}{{ link.pdf }}{% else %}#{% endif %}">{{ link.title }}</a></div>
