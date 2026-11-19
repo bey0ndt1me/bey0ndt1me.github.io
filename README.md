@@ -40,3 +40,26 @@ Windows. `local/` is git-ignored.
 GitHub Pages builds this site from `master` with the legacy Jekyll builder, so
 the theme files are vendored into the repository instead of being pulled in
 through `remote_theme`.
+
+## Search visibility
+
+`jekyll-sitemap` publishes `/sitemap.xml`, and `robots.txt` points at it. The
+`google_site_verification` key in `_config.yml` is currently empty; filling it
+in adds the Search Console meta tag.
+
+Bing/Yandex are pinged through IndexNow. The key file `1f390825acc54c93b807bb05e0465d8e.txt`
+must stay in the repository root, because IndexNow re-reads it to prove that the
+submitting host owns the URLs. Re-submit after a content change with:
+
+```powershell
+$key = '1f390825acc54c93b807bb05e0465d8e'
+@{
+  host        = 'bey0ndt1me.github.io'
+  key         = $key
+  keyLocation = 'https://bey0ndt1me.github.io/' + $key + '.txt'
+  urlList     = @('https://bey0ndt1me.github.io/')
+} | ConvertTo-Json -Depth 4 | ForEach-Object {
+  Invoke-WebRequest 'https://api.indexnow.org/indexnow' -Method Post -Body $_ `
+    -ContentType 'application/json; charset=utf-8' -UseBasicParsing
+}
+```
